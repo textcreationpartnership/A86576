@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horse-manship of England most particularly relating to the breeding and training of the running-horse. A poem dedicated to his grace the Duke of Monmouth.</title>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86576</idno><idno type="EEBO-CITATION">99896425</idno>
+  <idno type="VID">154211</idno>
+  <idno type="EEBO-PROQUEST">2248516472</idno>
+  
+            <idno type="STC">Wing H2870A</idno>
+            <idno type="STC">ESTC R230673</idno>
+            <idno type="PROQUEST">99896425</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896425e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2405:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horse-manship of England most particularly relating to the breeding and training of the running-horse. A poem dedicated to his grace the Duke of Monmouth.</title>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Parkhurst, at the Bible and Three Crowns at the lower end of Cheapside, near Mercers Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Horsemanship --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154211:1"/>
+            <pb facs="tcp:154211:1"/>
+            <pb facs="tcp:154211:2"/>
+            <pb facs="tcp:154211:2"/>
+            <pb facs="tcp:154211:3"/>
+            <pb facs="tcp:154211:3"/>
+            <p>THE Horse-manship OF ENGLAND, Most particularly relating to the BREEDING and TRAINING OF THE RUNNING-HORSE. A POEM DEDICATED To His Grace the Duke of <hi>Monmouth.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Parkhurst,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapside,</hi> near <hi>Mercers Chappel.</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154211:4"/>
+            <pb facs="tcp:154211:4"/>
+            <head>To his GRACE, JAMES DUKE OF MONMOUTH.</head>
+            <opener>
+               <salute>May it please Your Grace!</salute>
+            </opener>
+            <p>THere is no Nation that has produc'd so many E<g ref="char:EOLhyphen"/>minent Persons knowing in the art of Horse<g ref="char:EOLhyphen"/>manship, as this of ours. And of these, your Grace may deservedly claim the most superla<g ref="char:EOLhyphen"/>tive Renown, since what others can pretend to, either by way of <hi>Theory</hi> or Practice, is not a little exceeded by your perfection in both.</p>
+            <p>To observe you guiding the manag'd Horse, and how becoming your seat is there, would out-do all Complement to express. And whensoever you please to commit your Person to the pleasure of the Runner or Hunter, you ap<g ref="char:EOLhyphen"/>pear no less an ornament to those performances. This might enough incite my ambition to present you with this Poem (tho the first of this nature that I know of in any Lan<g ref="char:EOLhyphen"/>guage) however it may suffer from your acurate Judg<g ref="char:EOLhyphen"/>ment, and whence I must allow its greatest hazard: Tho otherwise I might presume to think it capable of giving some entertainment where the Subject here treated shall ap<g ref="char:EOLhyphen"/>pear grateful. Not doubting but persons so inclin'd
+<pb facs="tcp:154211:5"/>will find here deliver'd (if my verse does not abate the worth of the Argument) what may improve their observa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Where Poesy has merit, it can be as commendably ap<g ref="char:EOLhyphen"/>plied to the due esteem of the Creature (of which none can claim from man a parallel-esteem with this here mention'd) as to what does peculiarly adorn the most extraordinory acti<g ref="char:EOLhyphen"/>ons of humane life. Since if the providential part (from a<g ref="char:EOLhyphen"/>bove) be duly consider'd, men have as much reason to acknow<g ref="char:EOLhyphen"/>ledg its benignity to them in the useful subserviency of the Creature, as any other Attributes bestow'd on humane conser<g ref="char:EOLhyphen"/>vation: And which would find but an odd condition in this world on other terms. For what were it for man to be accounted a Master of Reason, if Creatures beneficially convenient and divertive were not ordain'd to apprehend and obey him? What value the Ancients had for the He<g ref="char:EOLhyphen"/>roick swiftness of the Horse, is highly discernable from the use of their Olympick and Chariot-Races: At which great Princes and Captains were not only indulgent Spe<g ref="char:EOLhyphen"/>ctators, but had their particular Conducts in the manage<g ref="char:EOLhyphen"/>ment of this Creatures hardest speed and performance.</p>
+            <p>But there needs no other commendation of the worth of such noble Recreations, than what your Grace has added to their embellishment amongst us, and which as much sur<g ref="char:EOLhyphen"/>pass all foreign Ingenuity in the same sphere of Science.</p>
+            <p>Should your many other Vertues be mention'd that have rendred you more than conspicuous in Camps and Palaces, the reality of your worth would far exceed the best protrai<g ref="char:EOLhyphen"/>ture of fiction, at least would require a better Muse to sing the praise of your Accomplishments than is in the power of your Grace's</p>
+            <closer>
+               <signed>Very Humble Servant.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="canto">
+            <pb n="1" facs="tcp:154211:5"/>
+            <head>CANTO I.</head>
+            <lg>
+               <l>WHAT Care and Science do most use<g ref="char:EOLhyphen"/>ful bring</l>
+               <l>The Horse to Labour, Muse now gladly Sing:</l>
+               <l>A Creature which Heavens vast Indulgence shows,</l>
+               <l>Whether his Toyls or Pleasures men propose.</l>
+               <l>What sensual Being has the like exprest,</l>
+               <l>Or merits such repute in other Beast?</l>
+               <l>Pity no higher word then Beast should name,</l>
+               <l>The generous Service which the Horse does claim,</l>
+               <l>Whether his use or kindness we respect,</l>
+               <l>He doth above his sense even both effect.</l>
+               <l>Humbly, his mighty Strength, Mankind he gives,</l>
+               <l>And to bad Owners more desertful lives.</l>
+               <l>His bold endurance Peace and War does grace,</l>
+               <l>And greatness adds to Crowns, support his race.</l>
+               <l>The feets of Verse too narrow speak his Praise,</l>
+               <l>Or tell what care his Off-spring best should raise.</l>
+               <l>His Speed, Strength, Beauty, Colder Regions show,</l>
+               <l>As well as those which under <hi>Cancer</hi> glow.</l>
+               <l>Happy, O <hi>Britain, Phoebus</hi> must confess,</l>
+               <l>Which soil without his parching Beams can bless</l>
+               <l>Steeds no less stout, than are their Owners bold,</l>
+               <l>What Clime such vigour boasts or fertile Cold?</l>
+               <l>Nor must thou <hi>Britain</hi> call thy Stars unkind,</l>
+               <l>If <hi>Asian</hi> Horse, or <hi>Africks,</hi> Mortals find</l>
+               <pb n="2" facs="tcp:154211:6"/>
+               <l>More neatly figur'd, whilst their strengths deny</l>
+               <l>With thine Couragious toils and Might to try,</l>
+               <l>Whilst he that would within this happy Isle</l>
+               <l>Breed Steeds that best his pleasure suit or toil,</l>
+               <l>Should well consider first their use design'd,</l>
+               <l>Lest his hopes fail from an improper kind;</l>
+               <l>Course strength and shape will coursest labours bear,</l>
+               <l>Or such the Swain supports with homely care.</l>
+               <l>Fine feet and limbs will but too nicely tread</l>
+               <l>The painful Journeys Plow Hinds guide for Bread.</l>
+               <l>Small rest their pastures foaling Dams allow:</l>
+               <l>Nor must their sportive young too painless grow,</l>
+               <l>But draw such Dugs their Harnest Mothers yield,</l>
+               <l>By some short respits as they Plow the Field;</l>
+               <l>But when they view their Burthen'd Mothers end</l>
+               <l>The rigid hours they did in Furrows spend;</l>
+               <l>And that they homeward with their Owners go,</l>
+               <l>How soon their Foals will then their gladness show;</l>
+               <l>Or skip before their Dams presuming they</l>
+               <l>Shall to their Milky hopes more leisure pay;</l>
+               <l>But Swain remember, if thou mean'st to give</l>
+               <l>Praise to the Beast for thy strong drifts must live,</l>
+               <l>That when unto thy Cote thy Foaling kind</l>
+               <l>Return inflam'd, or foaming sweats dost find</l>
+               <l>Stream from their sides, be 't then thy chiefest care</l>
+               <l>That their soft Dugs thy tender Foles forbear:</l>
+               <l>Much harm alas, to Sucklings dos ensue,</l>
+               <l>When reaking Udders they for Milk pursue.</l>
+               <l>Hinder, O hinder their too greedy hast,</l>
+               <l>So sweet's the mischief 'twill be suckt too fast;</l>
+               <l>Allow fit space for scalded Teats to cool,</l>
+               <l>Least inward griefs afflict the tender Foal;</l>
+               <pb n="3" facs="tcp:154211:6"/>
+               <l>Whence noisom Glanders, or Impostumes spring,</l>
+               <l>Which long Disease (or Death) too swiftly bring.</l>
+               <l>This care the cautious Rutals well observe,</l>
+               <l>That to advantage would their breed preserve.</l>
+               <l>Do we not see the Horse their Cotes produce,</l>
+               <l>Oft from their Tilts advanc'd to nobler use?</l>
+               <l>Or else supports the Winter Journeys toil,</l>
+               <l>Or bears the Huntsman o're the sportive Soil.</l>
+               <l>Such strength and speed in Steeds of vulgar race,</l>
+               <l>(To <hi>Britains</hi> glory) use, and pleasure, grace.</l>
+               <l>Nor needs the common man more curious be,</l>
+               <l>Than well proportion'd Strength and Limbs to see</l>
+               <l>In Sire and Dam, to which if well he heed,</l>
+               <l>Some Foals he'l raise above his hope to breed;</l>
+               <l>As men behold how Nature pleasure takes</l>
+               <l>When she 'mongst common things some wonders makes:</l>
+               <l>Or where the Oak or Thorn do coursely spring,</l>
+               <l>An unexpected Fruit some Trees will bring.</l>
+               <l>But thou whose Birth and Fortune thee shall guide</l>
+               <l>To raise the Horse of noblest shape and pride,</l>
+               <l>Whether for War or Pleasure be thy scope,</l>
+               <l>Few admonitions may advance thy hope.</l>
+               <l>Nor think thou dost thy Countreys worth decline</l>
+               <l>If Foreign breed with its Complexion joyn,</l>
+               <l>Whether from <hi>Greece</hi> thy noble Stallion be,</l>
+               <l>Or of <hi>Arabicks</hi> swifter Pedigree.</l>
+               <l>Nor would I have thee the neat <hi>Barb</hi> neglect,</l>
+               <l>Whose Wind and Speed such Wonders do effect:</l>
+               <l>Though <hi>Africk</hi> most admir'd his feature shows,</l>
+               <l>And where Mankind in Figure blackest grows,</l>
+               <l>As if that <hi>Phoebus</hi> there did most dispense</l>
+               <l>This Creatures Beauty with his influence.</l>
+               <pb n="4" facs="tcp:154211:7"/>
+               <l>The <hi>English</hi> Mare that's large and comely grown,</l>
+               <l>Sprung from a Blood may worthy Off-spring own;</l>
+               <l>Well she deserves best foreign Seed to bear,</l>
+               <l>As more illustrious things from mixtures are;</l>
+               <l>Or if with small great acts compar'd may be,</l>
+               <l>It much resembles Royal Progeny,</l>
+               <l>Which Mighty Nations in their Princes joyn,</l>
+               <l>To make their Issues most conspicuous shine.</l>
+               <l>No height of Blood does Lineage more compleat</l>
+               <l>Than in this Creature, when descended great;</l>
+               <l>His Predecessors worth in his will show,</l>
+               <l>Nay oft from kinder Stars exceeded too.</l>
+               <l>Which to uphold duly thy kind observe,</l>
+               <l>Nor think unworthy Mare can Seed deserve</l>
+               <l>From such a Sire whose Loyns the Horse should get</l>
+               <l>Becomes brave Manage or a Princes Seat;</l>
+               <l>Or such Great Captain would in Battel ride,</l>
+               <l>When Art more comely bold incites his Pride.</l>
+               <l>No less thy diligence exact should be</l>
+               <l>If for thy Pleasure thou'dst swift Courser see</l>
+               <l>Which nimbly should the fewest minutes spend</l>
+               <l>Before his Speed thy wager'd Race does end:</l>
+               <l>Him to exalt too curious none can view</l>
+               <l>The Male and Female his descent must shew.</l>
+               <l>Fine shapes with comely strength for him select:</l>
+               <l>Nor e're from homely steps his hast expect;</l>
+               <l>A care this Islands breeders must commend,</l>
+               <l>Who Skill and Cost above all Nations spend</l>
+               <l>To raise this Creatures nimble Strength and Might,</l>
+               <l>No Clime beside his Vertues so delight;</l>
+               <l>Or yields such Carpet green where he may run,</l>
+               <l>Swift, next the Steeds which Heaven allows the Sun,</l>
+               <pb n="5" facs="tcp:154211:7"/>
+               <l>If such Ambition suits thy generous mind,</l>
+               <l>As oft our <hi>English</hi> Nobles are inclin'd</l>
+               <l>To raise the Horse whose sprightly hast may claim</l>
+               <l>The highest Rank of matchless Coursers fame,</l>
+               <l>Think not thy Park which Deer or Hart contains,</l>
+               <l>So comely sport and feed its Lawns and Plains,</l>
+               <l>Can to thy eye a nobler pleasure give</l>
+               <l>Than if thy Stud and young there graceful live;</l>
+               <l>Large wanders they with most delight would tread,</l>
+               <l>With least confinement Wind and Speed are bred;</l>
+               <l>Or glad's the Damm when she her Foal doth see</l>
+               <l>Start from her sides and like swift gales to flee.</l>
+               <l>In Summer let thy Mares full pastur'd go</l>
+               <l>In some choice Soil where Streams propitious flow:</l>
+               <l>The purest Flood does best their Thirst allay,</l>
+               <l>And fills the Teats thy Sucklings Milk convey;</l>
+               <l>No parched Herbage can their food supply,</l>
+               <l>Or Lakes that half to Mud at Solstice dry:</l>
+               <l>The barren Soil too soon thy Foals will shrink,</l>
+               <l>Nor there will nimbly scope the Rivers brink:</l>
+               <l>Although their sprightly shape they much delight,</l>
+               <l>When Floods reflect its Beauty to their sight.</l>
+               <l>Their growth and pleasure fill of Milk does bring,</l>
+               <l>As early buds must feel the warmest Spring.</l>
+               <l>Much observation heedful Breeders make</l>
+               <l>Before their Foals their tender Dams forsake</l>
+               <l>Whether his strength, speed, courage, thou wouldst know:</l>
+               <l>His growth and spirit well all these will show.</l>
+               <l>If stirring, active, and of nimble heel,</l>
+               <l>The steps he treads will seem no ground to feel.</l>
+               <l>Slothful and dull their flegm will soon betray,</l>
+               <l>What life has temper'd life will most convey.</l>
+               <pb n="6" facs="tcp:154211:8"/>
+               <l>Ere Winter come, or Autumn thou dost see</l>
+               <l>Well spent with cold, or frosts benumn the tree,</l>
+               <l>Provide due shelter where thy Steed does go,</l>
+               <l>Much warmth and food this season them allow.</l>
+               <l>No curious skill or cost thou need'st imploy</l>
+               <l>To save thy young from Winter's fierce annoy:</l>
+               <l>Tho <hi>North</hi> or <hi>East</hi> Winds shed their keenest dew,</l>
+               <l>Or curl'd with joy locks tall Groves do shew.</l>
+               <l>Homely (if sure) thy care enough does speak</l>
+               <l>Large room tho' thatch'd thou seest the Swain does make</l>
+               <l>His full Glebs safety, numbring with glad gain</l>
+               <l>The fertile Treasure he doth there sustain.</l>
+               <l>Form'd like its Model will protect thy young,</l>
+               <l>Most for that use of figure chuse Oblong:</l>
+               <l>It's floor smooth wrought with earth well harden'd see,</l>
+               <l>Or who'l dislike if laid with flint it be?</l>
+               <l>Firm treading will their tender hoofs enure</l>
+               <l>To those bold steps their riper age endure.</l>
+               <l>Nor will this safeguard more thy Steed protect</l>
+               <l>From Winter's rage, than when <hi>Sol</hi>'s beams effect</l>
+               <l>In <hi>Cancer</hi>'s glowing Claws their scorching heat,</l>
+               <l>And stinging lust to busie flies create.</l>
+               <l>This shelter will their equal comfort be,</l>
+               <l>As mortal sense would from extreams live free.</l>
+               <l>No season of the year thy Steed needs fear,</l>
+               <l>If this one safety thou allowst thy care.</l>
+               <l>Or grant thy breed does range where no leaves grow,</l>
+               <l>Or cops where rain (like buds) thick drops does show:</l>
+               <l>Account such shade no want, since thou wilt find</l>
+               <l>Their skins far more refin'd with Sun and Wind:</l>
+               <l>Or those smooth gales on tops of Hills do glide,</l>
+               <l>Where thy Foals gladly scope with nimblest pride.</l>
+               <pb n="7" facs="tcp:154211:8"/>
+               <l>Air least restrain'd, their Tempers most rejoice,</l>
+               <l>As what is most it self is Nature's choice.</l>
+               <l>Thy breed thus settl'd, curiously observe</l>
+               <l>Which in thy own esteem do best deserve.</l>
+               <l>Shapes with good Colours joyn'd, be sure prefer,</l>
+               <l>Where Nature paints the life she least doth err.</l>
+               <l>To this, experienc'd Horse-men most submit,</l>
+               <l>Like Criticks whose nice skill advanceth Wit.</l>
+               <l>Seldom or never kindly Features meet</l>
+               <l>But they express an inward soul more great.</l>
+               <l>Yet in thy Stud if thou perceiv'st there be</l>
+               <l>Some Foals whose shapes, than colours, more agree</l>
+               <l>With best perfection, see thou do not scant</l>
+               <l>To such thy due regard, since 'tis no want,</l>
+               <l>If outward accidents of Beauty fail</l>
+               <l>So no essential evils thence prevail.</l>
+               <l>Oft have been Duns and Chesnuts of worst hue,</l>
+               <l>With course Bays Sorrils Cole-blacks seldom true:</l>
+               <l>Yet of these some in vertue have out-done,</l>
+               <l>Even best brown Bays and Grays for Wagers run.</l>
+               <l>Nor think thy generous young amiss do show,</l>
+               <l>If they loose figur'd or uneven grow</l>
+               <l>From one to their fith year, when thou maist find</l>
+               <l>Such comely shapes unite as boast their kind.</l>
+               <l>Often, alas! the heedless breeder gives</l>
+               <l>Praise to the Foal that less desertful lives,</l>
+               <l>When strength with beauty too composs'd appears,</l>
+               <l>And early seems to fix his growing years,</l>
+               <l>Beware thy hopes too vainly then prevail,</l>
+               <l>Which in ripe time thou't soon perceive to fail:</l>
+               <l>When to thy eye no such wish'd features show,</l>
+               <l>As if thy Horse's youth did backward grow.</l>
+               <pb n="8" facs="tcp:154211:9"/>
+               <l>At five, and six years old, when use requires</l>
+               <l>Thy Steed should manag'd be to thy desires,</l>
+               <l>Least value such where disproportions meet,</l>
+               <l>Nor hope from them performance swift or great.</l>
+               <l>The Horse then even form'd still most delight:</l>
+               <l>Higher behind than forward, loath his sight.</l>
+               <l>Nor so far smooth thy wishes to expect,</l>
+               <l>That future time shall mend this bad defect.</l>
+               <l>His due growth being summ'd, 'tis Nature's course</l>
+               <l>To leave such marks in Steeds she formeth worse.</l>
+               <l>At four years old the Horse that's truly bred,</l>
+               <l>And generous Spirits feels of Sire's long dead;</l>
+               <l>Omit no time with all thy pleasing skill</l>
+               <l>To win his soft obedience to thy will,</l>
+               <l>Letting him well perceive with gentle hand</l>
+               <l>The Bridles rein his first and last command.</l>
+               <l>With which if he the Saddles use doth know,</l>
+               <l>And yield his back with due submission too,</l>
+               <l>A many mischiefs thou't avoid betime,</l>
+               <l>Which too neglectful Horsmen make their crime.</l>
+               <l>Wherefore if best experience thou't embrace,</l>
+               <l>Till six years past let usage in no case</l>
+               <l>Afflict thy Horse, lest Maladies accrew,</l>
+               <l>Thy skill and care will prove redresless too.</l>
+               <l>Splints, Windgalls, Curbs, and Spavens worst of Cures,</l>
+               <l>The Horse o're labour'd young, too soon endures.</l>
+               <l>Tutor his youth by slow and soft degrees,</l>
+               <l>His growing strength requires thy kindest ease.</l>
+               <l>Or as the Child must gentle pastimes know,</l>
+               <l>Yet from the Rod receives instruction too.</l>
+               <l>So with indulgence joyn'd let stripes command,</l>
+               <l>Lest thy Steeds stubborn Youth forget thy hand.</l>
+               <pb n="9" facs="tcp:154211:9"/>
+               <l>Too much a vitious sense informs the Horse,</l>
+               <l>That less by kindness tutor'd is than force.</l>
+               <l>But where thy tender dalliance can't allure,</l>
+               <l>See that thy Horse thy stripes does well endure.</l>
+               <l>His Youth (like man's) improves pernicious ill,</l>
+               <l>Unless correction then commands his will.</l>
+               <l>His due age come, with full obedience joyn'd</l>
+               <l>Expect performance worthy of his kind.</l>
+               <l>Till when let usage his delight improve,</l>
+               <l>Pleasure with toyl to toyl will raise his love.</l>
+               <l>Time must thy Horse and thy Instructor be,</l>
+               <l>Nor hope too soon his speed and might to see.</l>
+               <l>Some Horses shapes will soonest strength compleat:</l>
+               <l>In others, far more late, perfections meet.</l>
+               <l>Well thou may'st know the long and tall require</l>
+               <l>More time to fix the vigours tho'ut desire.</l>
+               <l>Whilst low and little sooner do unite</l>
+               <l>The utmost periods of their growth and might.</l>
+               <l>Nor think such Steeds will less deserve thy praise</l>
+               <l>Which Natures longest care does virtuous raise:</l>
+               <l>What slowly sees perfection, who'l not say</l>
+               <l>Time does endear as long with least decay?</l>
+               <l>More Precepts on this Subject needless were,</l>
+               <l>It being so obvious to thy use and care.</l>
+               <l>What next respects the Horse thou'dst gladly bring</l>
+               <l>In fewest minutes o're four miles to spring.</l>
+               <l>If my Muse well instructs, I'le let thee know;</l>
+               <l>Till when this period thy due thoughts allow.</l>
+            </lg>
+         </div>
+         <div n="2" type="canto">
+            <pb n="10" facs="tcp:154211:10"/>
+            <head>CANTO II.</head>
+            <lg>
+               <l>THE Horse that's young, and untaught yet to feel</l>
+               <l>Four miles swift labour on his nimblest heel,</l>
+               <l>Experience bids thy patience should attend</l>
+               <l>Till time repays the time thy hope does spend.</l>
+               <l>Nor think that <hi>Phoebus</hi> doth revolve too slow</l>
+               <l>His Annual Orb e're thy train'd Horse doth know</l>
+               <l>Thy wager'd Match, one year at least see past,</l>
+               <l>Before thou dost attempt his utmost haste.</l>
+               <l>Till when, with pleasant ease his labours guide,</l>
+               <l>More to incite his swift desires and pride.</l>
+               <l>Delight will win him to indear his toyl,</l>
+               <l>As love improves what heedless force may spoil.</l>
+               <l>When morning breaks, and thou some Hill dost take</l>
+               <l>Where he his airy scopings first doth make</l>
+               <l>E're thou descend unto the flowing stream</l>
+               <l>To cool his limbs and duly quench his flame,</l>
+               <l>Be sure no sweat thou dost provoke to rise,</l>
+               <l>If thou thy Horses worth and health dost prise.</l>
+               <l>Use no more speed than will his warmth supply,</l>
+               <l>Lest hurtful chills from his draughts inward lye.</l>
+               <l>The evening come, and season fit for thee</l>
+               <l>To ride thy Horse where he must water'd be,</l>
+               <l>With the same caution let him walk and scope</l>
+               <l>As best his Wind and pleasure may provoke.</l>
+               <l>Yet take this difference from experience too,</l>
+               <l>If thy convenience does it well allow,</l>
+               <pb n="11" facs="tcp:154211:10"/>
+               <l>That for his evenings air thy Horse should ride</l>
+               <l>The Flat, or Mead, where purest streams do glide.</l>
+               <l>Contiguous to such skelping turf, that he</l>
+               <l>May there his nimble stroaks delight to see.</l>
+               <l>The Soyl that's low no less thy Horse enseams</l>
+               <l>Than Hill where gusts he draws with morning beams.</l>
+               <l>From both alike effects of good accrew,</l>
+               <l>As Art should Nature's aid each way pursue.</l>
+               <l>Calm pleasure, what good Horse-man does not chuse,</l>
+               <l>By soft degrees to clean the Horse he'l use?</l>
+               <l>His speed and strength are safest thus refin'd,</l>
+               <l>And what assisteth both, his running wind.</l>
+               <l>Each of these Virtues should thy care imploy,</l>
+               <l>Tho few prov'd Horses all alike injoy.</l>
+               <l>Some Wind and toughness far less want than speed;</l>
+               <l>Others run fast yet fainty spirits breed.</l>
+               <l>When thy Steed's duly kept, thy proof will tell</l>
+               <l>Which of his coursing glories most excel.</l>
+               <l>No sign, like proof, good Horse-man e're will trust,</l>
+               <l>Or unknown Virtues wager to his cost.</l>
+               <l>The first experience in thy young train'd Horse</l>
+               <l>Thou should'st approve in hope to make good course:</l>
+               <l>Is, that his swiftness be to thee well known,</l>
+               <l>Swift, is a worth, best Runners surely own;</l>
+               <l>Other perfections thou may'st hope from time,</l>
+               <l>Whilst late, or never, slow Horse mends his crime.</l>
+               <l>Some from the Horse well bred and shap'd suppose</l>
+               <l>All coursing Virtues which their hopes propose.</l>
+               <l>But trust not Species as thy certain guide,</l>
+               <l>Or with thy Purse maintain such Horse untry'd,</l>
+               <l>Lest to thy Cost thy rash experience find</l>
+               <l>The Steed of fair Descent below his kind;</l>
+               <pb n="12" facs="tcp:154211:11"/>
+               <l>As oft in Mankind men unwilling see</l>
+               <l>Unworthy Issues of high Pedigree.</l>
+               <l>Yet lineage still prefer in Steed thoud'st raise</l>
+               <l>Nobly to win the speedy Coursers praise.</l>
+               <l>From generous Blood like Vertue oft descends,</l>
+               <l>Whilst mean as seldom its mean worth amends.</l>
+               <l>Nor must thou always thy best hope neglect</l>
+               <l>If Natures outward Beauties less affect</l>
+               <l>Thy well got Horse, or that his shape and grace</l>
+               <l>Less comely shew the vertue of his Race.</l>
+               <l>From sure Experience know, there oft have been</l>
+               <l>Steeds coursely form'd, yet worthy of their kin;</l>
+               <l>Or such when train'd uncouthly stroke the Plain,</l>
+               <l>Or whose rough mouths thy hand does most complain;</l>
+               <l>Yet, even of these, sure proofe their fame does tell,</l>
+               <l>Whilst some of breed and feature less excell.</l>
+               <l>A glory, Nature sometimes loves to show</l>
+               <l>When Soul and Spirit outward form outdo:</l>
+               <l>But what should I such circumstantials speak,</l>
+               <l>Which every Horse mans care does obvions make;</l>
+               <l>Or how, and when, thy Horse would feed or rest,</l>
+               <l>With Intervals in which his smooth skin's drest,</l>
+               <l>Things too much vulgar for my Pen to teach:</l>
+               <l>And which, thy Grooms Mechanick skill may reach.</l>
+               <l>Yet still remember that the Owners eye</l>
+               <l>Doth best observe neglects in Keepers lye;</l>
+               <l>Too oft their Crime and Sloth abuse the Horse</l>
+               <l>Which un-neglected might have won his Course.</l>
+               <l>Thus have I known the Steed (bad Master leaves),</l>
+               <l>That soon to future fame new merit gives,</l>
+               <l>Or from mean glory does to greatest rise,</l>
+               <l>And wins the Palm where first he lost the Prize.</l>
+               <pb n="13" facs="tcp:154211:11"/>
+               <l>Th' Improv'd Horse his Conqueror oft subdues,</l>
+               <l>And in his Triumph most his owner shews.</l>
+               <l>This to their cost Ill Horse-men frequent know,</l>
+               <l>And what is worse, in Fame are losers too.</l>
+               <l>Thy Horses humour should well studied be,</l>
+               <l>That labour, food, or ease, with it agree:</l>
+               <l>His Bodies state and Limbs exactly find,</l>
+               <l>Nor judg thy care of both can be too kind;</l>
+               <l>Many defects thou may'st this way prevent</l>
+               <l>And fit his Spirit best for thy intent.</l>
+               <l>The tender Horse should gentle usage know,</l>
+               <l>Sharp heats and airings most to him are foe:</l>
+               <l>What suits each temper best let each endure,</l>
+               <l>If thou their swift performance wilt allure.</l>
+               <l>This order chiefly doth this Horse assist.</l>
+               <l>Anothers Spirit would as much resist.</l>
+               <l>To no one rule or thing commit thy Trust,</l>
+               <l>A varied Science speaks good Horse-man most.</l>
+               <l>Nor small Philosophy's requir'd to know</l>
+               <l>The Horse's Nature and his Virtue too,</l>
+               <l>A skill, the great and noble must incite,</l>
+               <l>That would experience well this swift delight.</l>
+               <l>In Running Horse tho' many graces are,</l>
+               <l>Their worst de<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raction is man's worthless care.</l>
+               <l>Use and delight his high Perfections show,</l>
+               <l>And is of Horse the chiefest Jewel too:</l>
+               <l>But what need I his value more relate</l>
+               <l>Which has from generous Man such ancient date;</l>
+               <l>Or tell what Prince or Worthies did delight</l>
+               <l>The swift observance of his conquering flight;</l>
+               <l>Or on the speedy Coursers Back would guide</l>
+               <l>His sportive Glory with his winning Pride.</l>
+               <pb n="14" facs="tcp:154211:12"/>
+               <l>Enough my Muse could such Records produce,</l>
+               <l>Whilst she returns to more familiar use.</l>
+               <l>Next food and airings see such care thou take</l>
+               <l>That thy Steed may his Sweats securely make:</l>
+               <l>Sweats, above all, do clean his inward part,</l>
+               <l>And clear gross humors clog his Wind and Heart.</l>
+               <l>But 'tis a labour, well provide to know,</l>
+               <l>That should thy Horses strength still under-do;</l>
+               <l>Lest he too soon a weakned Spirit feel,</l>
+               <l>Or faint when it should aid his nimble heel.</l>
+               <l>Whilst pleas'd with toil, he'l gladly next aspire</l>
+               <l>T'exceed thy hope, when most thou shalt require.</l>
+               <l>Once in each week most knowing will admit</l>
+               <l>To give their heats in time and season fit.</l>
+               <l>Others each six days hold the fittest time,</l>
+               <l>Which may in both or either be no crime;</l>
+               <l>The Horse consider'd well his strength and state,</l>
+               <l>To which his Sweats should usefully relate.</l>
+               <l>But trust no certain Prescripts I advise.</l>
+               <l>Or first consult thy Steed to be more wise.</l>
+               <l>His Symptoms will far better thee direct</l>
+               <l>Although his Stars conceal their close effect;</l>
+               <l>Who knows not but some kinder hours dispose</l>
+               <l>Both Man and Beast which other more oppose:</l>
+               <l>And how they Food and Rest regretful take,</l>
+               <l>With every Pleasure Soul and Body make.</l>
+               <l>Enough this tells thee how thou shouldst fulfil</l>
+               <l>Thy Coursers praise tho' with a vari'd skill.</l>
+               <l>Nor need I here express or time or place</l>
+               <l>Which most incite thy Horse to speed his Race;</l>
+               <l>Or with what Art thy careful hand should guide</l>
+               <l>His stroaking Limbs when he doth Wager'd ride.</l>
+               <pb n="15" facs="tcp:154211:12"/>
+               <l>Whilst soon thou't grant thy courser can thee show</l>
+               <l>The how, and where, of his Perfections too.</l>
+               <l>Some Hill or Flat with ready hast endure,</l>
+               <l>Others the easy slope does most allure.</l>
+               <l>Trust there his speed where he loves best to run,</l>
+               <l>Love by its power in Horse has wonders done;</l>
+               <l>Which swift affection let thy skill incite,</l>
+               <l>He more than winns that winns with most Delight.</l>
+               <l>Nothing beyond thy Runners might propose,</l>
+               <l>Or inconvenient weight on him dispose:</l>
+               <l>Weight above all things does impede his course,</l>
+               <l>And when 'tis given soonest beats good Horse.</l>
+               <l>Few pounds are pressures, well experienc'd know;</l>
+               <l>Whence Stone or half-Stone seldom they allow.</l>
+               <l>Small is the skill which meetly may enjoy</l>
+               <l>This pleasure if men fitly care employ.</l>
+               <l>Whilst generous sense best notions will Improve,</l>
+               <l>As noblest things oblige the noblest love.</l>
+               <l>Would'st thou thy Coursers fame and wager try,</l>
+               <l>Or with delight on his back four miles fly,</l>
+               <l>(As oft our Nobless and our Gentry do,)</l>
+               <l>And not assist in thine his merit too:</l>
+               <l>Or think thy eye below it self descends</l>
+               <l>If thy Grooms part by thy observance mends.</l>
+               <l>Trust me, this Art's above Mechanick sense,</l>
+               <l>Or such the vulgar's slothful thoughts dispense.</l>
+               <l>But what need lines industriously aspire</l>
+               <l>T' incite that Science worthy minds desire:</l>
+               <l>Which Nature in this Clime selecteth most,</l>
+               <l>The Coursers famous breed and praise to boast;</l>
+               <l>Nor judg thou dost thy diligence mispend</l>
+               <l>If each train'd Horse does not compleat thy end.</l>
+               <pb n="16" facs="tcp:154211:13"/>
+               <l>Or with such winning Heel doth purchase fame</l>
+               <l>As thence accrews to him good Coursers name.</l>
+               <l>Whilst thou perhaps in such may'st vertues find</l>
+               <l>Worthy thy pleasure in a noble kind;</l>
+               <l>If Chace of Deer or Hart thou dost delight</l>
+               <l>And on thy Horse pursu'st their speedy flight.</l>
+               <l>The well prov'd Hunter, who will not esteem,</l>
+               <l>Whose sportive toil the greatest highly deem.</l>
+               <l>His tough and constant speed the Hound ore-run,</l>
+               <l>And chase not ended with the setting Sun.</l>
+               <l>No Steed strict labour harder does endure;</l>
+               <l>And next if thou to War wouldst him enure,</l>
+               <l>His shape and spirit thy armed weight will bear,</l>
+               <l>And teach his Foe his active strength to fear;</l>
+               <l>Swift to assail and speedy to pursue,</l>
+               <l>And if Fate bids retire thy safety too.</l>
+               <l>Good Blood in Horse is seldome so far lost</l>
+               <l>But in some vertue it acquits thy cost,</l>
+               <l>Nature's Perfections different ways do lie,</l>
+               <l>What fits not one use t'other may supply</l>
+               <l>More on this subject my Pen could dilate,</l>
+               <l>But what enough can speak this Creature great,</l>
+               <l>Or tell what fame or merit they acquire,</l>
+               <l>Who Steeds (of noblest worth) to raise aspire,</l>
+               <l>Though Fiction <hi>Pegasus</hi> in Heaven does place,</l>
+               <l>Most do suppose on earth he wing'd his Race;</l>
+               <l>Or did below from such swift Blood proceed</l>
+               <l>As might compleat our <hi>English</hi> Coursers breed;</l>
+               <l>Whose praise my Muse ambitious was to Sing,</l>
+               <l>And deems it meetest there to close her Wing.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154211:13"/>
+            <pb facs="tcp:154211:14"/>
+            <pb facs="tcp:154211:14"/>
+            <pb facs="tcp:154211:15"/>
+            <pb facs="tcp:154211:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
